@@ -441,7 +441,7 @@ div#dashboard-widgets {
 	padding-right: 1px;
 }
 
-.tagchecklist > li, .tagchecklist .ntdelbutton {
+.tagchecklist > span, .tagchecklist .ntdelbutton {
 	display: inline-block;
 	display: block;
 }
